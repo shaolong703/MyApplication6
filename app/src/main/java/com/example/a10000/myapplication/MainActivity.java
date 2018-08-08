@@ -91,7 +91,26 @@ public class MainActivity extends AppCompatActivity {
                 // 步骤7：处理返回的数据结果：输出翻译的内容
                 System.out.println(response.body().getTranslateResult().get(0).get(0).getTgt());
                 Log.e("abcdd", response.body().getTranslateResult().get(0).get(0).getTgt() + "<<<<<<<<<<<<<<<<<<<<");
-
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
             }
 
             //请求失败时回调
