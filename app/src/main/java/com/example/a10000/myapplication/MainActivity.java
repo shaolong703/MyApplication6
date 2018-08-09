@@ -92,7 +92,8 @@ public class MainActivity extends AppCompatActivity {
                 System.out.println(response.body().getTranslateResult().get(0).get(0).getTgt());
                 Log.e("abcdd", response.body().getTranslateResult().get(0).get(0).getTgt() + "<<<<<<<<<<<<<<<<<<<<");
                 //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
-
+                //11.06再次增加一行
+                //增加分支测试1
             }
 
             //请求失败时回调
