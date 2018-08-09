@@ -95,6 +95,16 @@ public class MainActivity extends AppCompatActivity {
                 //11.06再次增加一行
                 //增加分支测试1
                 //测试冲突
+                //测试冲突
+                //测试冲突
+                //测试冲突
+                //测试冲突
+
+
+                //我增加了一行！！！！！！！！！！！！DDDDDDDDDDD
+                //11.06再次增加一行
+                //增加分支测试1
+                //测试冲突
                 //克隆i项目第一次提交
                 //克隆i项目第二次提交
                 //克隆i项目第三333次3提交
@@ -102,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
 
+            //请求失败时回调
             //请求失败时回调
             @Override
             public void onFailure(Call<Translations> call, Throwable throwable) {
