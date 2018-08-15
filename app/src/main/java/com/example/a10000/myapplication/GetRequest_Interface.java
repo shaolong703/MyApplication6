@@ -12,4 +12,5 @@ public interface GetRequest_Interface {
     // 如果接口里的url是一个完整的网址，那么放在Retrofit对象里的URL可以忽略
     // getCall()是接受网络请求数据的方法
     // getCall()是接受网络请求数据的方法
+    // getCall()是接受网络请求数据的方法
 }
