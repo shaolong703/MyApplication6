@@ -13,4 +13,5 @@ public interface GetRequest_Interface {
     // getCall()是接受网络请求数据的方法
     // getCall()是接受网络请求数据的方法
     // getCall()是接受网络请求数据的方法
+    // getCall()是接受网络请求数据的方法
 }
